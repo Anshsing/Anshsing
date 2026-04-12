@@ -2,7 +2,7 @@
 
 <div align="center">
 
- <img src="https://raw.githubusercontent.com/Anhsing/Anshsing/main/banner.png" />
+ <img src="https://raw.githubusercontent.com/Anshsing/Anshsing/main/banner.png" />
 <h2>🚀 Full Stack Developer | AI Builder</h2>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;AI+Powered+Tools+Builder;Problem+Solver;Open+to+Internships" />

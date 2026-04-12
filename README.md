@@ -2,8 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ansh%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
+ <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.png" />
 <h2>🚀 Full Stack Developer | AI Builder</h2>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;AI+Powered+Tools+Builder;Problem+Solver;Open+to+Internships" />

@@ -1,107 +1,115 @@
-<!-- ==================== HEADER ==================== -->
+<!-- ==================== HERO SECTION ==================== -->
 
 <div align="center">
 
- <img src="https://raw.githubusercontent.com/Anshsing/Anshsing/main/banner.png" style="border-radius: 15px; height: 300px; padding-bottom:10px;"/>
-<h2>🚀 Full Stack Developer | AI Builder</h2>
+<img src="https://raw.githubusercontent.com/Anshsing/Anshsing/main/banner.png" width="100%" style="border-radius: 12px;" />
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;AI+Powered+Tools+Builder;Problem+Solver;Open+to+Internships" />
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&lines=Full+Stack+Developer+(MERN);AI+Tool+Builder;Clean+UI+%2B+Scalable+Systems;Open+to+Internships" />
 
 </div>
 
 ---
 
-<!-- ==================== ABOUT ==================== -->
+<!-- ==================== INTRO ==================== -->
 
-## 🧠 About Me
+## 👋 Who Am I
 
-```yaml id="c5mv94"
-name: Ansh Singh
-role: Full Stack Developer (MERN)
-focus: AI + Real World Products
-location: India
-```
+I’m **Ansh Singh**, a developer focused on building **real-world, high-impact products**.
 
-I build **real-world products** that solve actual problems — not just tutorial clones.
+I don’t just write code — I design systems that solve problems.
 
-* 🤖 Building AI tools for developers
-* 🧩 Love solving complex UI/UX problems
-* ⚡ Focused on performance & scalability
-* 🎯 Goal: Land a top-tier dev internship
+* 🚀 MERN Stack Developer
+* 🤖 Building AI-powered tools
+* 🎯 Focused on internships & product engineering
+* ⚡ Strong in UI + logic + performance
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
+<!-- ==================== SKILLS ==================== -->
 
 ## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,git,github,vscode" />
 
 </div>
 
 ---
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
+<!-- ==================== PROJECTS ==================== -->
 
-## 🚀 Featured Projects
+## 🚀 Projects (Portfolio)
+
+---
 
 ### 🤖 AI LeetCode Helper Extension
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/placeholder/demo.gif" width="80%" />
+<img src="YOUR_GIF_1" width="85%" style="border-radius:10px;" />
 </div>
 
-💡 AI-powered Chrome extension that helps you **understand problems instead of copying solutions**
+**What it does:**
+AI-powered Chrome extension that helps users *understand* coding problems instead of copying solutions.
 
-**Key Highlights:**
+**Why it’s impactful:**
 
-* 🧠 Extracts problem directly from LeetCode
-* ⚡ Generates hints using AI
-* 🎯 Shows concepts instead of full answers
+* 🧠 Extracts problem automatically
+* ⚡ Gives hints using AI
+* 🎯 Focuses on learning, not cheating
 
-```id="p1x9l3"
-Stack: React + OpenAI API + Chrome APIs
+```id="pr1"
+Tech: React • OpenAI API • Chrome Extension APIs
 ```
+
+🔗 Live Demo: YOUR_LINK
+📂 Repo: YOUR_LINK
 
 ---
 
 ### 🛍️ Hyperlocal Clothing Discovery Platform
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/placeholder/demo2.gif" width="80%" />
+<img src="YOUR_GIF_2" width="85%" style="border-radius:10px;" />
 </div>
 
-💡 Find clothing from nearby shops instantly — solving urgent shopping needs
+**What it does:**
+Connects users with nearby clothing shops for urgent fashion needs.
 
-**Key Highlights:**
+**Why it’s impactful:**
 
-* 📍 Location-based discovery
-* 🔎 Smart filters for quick results
-* 🏪 Shopkeeper onboarding system
+* 📍 Real-time local discovery
+* 🔎 Smart filtering system
+* 🏪 Shop onboarding dashboard
 
-```id="t7h3fs"
-Stack: MERN (MongoDB, Express, React, Node)
+```id="pr2"
+Tech: MongoDB • Express • React • Node
 ```
+
+🔗 Live Demo: YOUR_LINK
+📂 Repo: YOUR_LINK
 
 ---
 
 <!-- ==================== STATS ==================== -->
 
-## 📊 GitHub Analytics
+## 📊 GitHub Insights
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🧠 Code Breakdown
+<!-- ==================== LANGUAGES ==================== -->
+
+## 🧠 Code Profile
 
 <div align="center">
 
@@ -113,7 +121,7 @@ Stack: MERN (MongoDB, Express, React, Node)
 
 <!-- ==================== ANIMATION ==================== -->
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Activity
 
 <div align="center">
 
@@ -125,12 +133,12 @@ Stack: MERN (MongoDB, Express, React, Node)
 
 <!-- ==================== CONTACT ==================== -->
 
-## 🌐 Let's Connect
+## 🌐 Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:your.email@gmail.com">
@@ -141,20 +149,10 @@ Stack: MERN (MongoDB, Express, React, Node)
 
 ---
 
-<!-- ==================== CURRENT FOCUS ==================== -->
-
-## ⚡ Current Mission
-
-```diff id="v7j9k1"
-+ Building AI-powered dev tools
-+ Improving system design skills
-+ Shipping real-world products
-```
-
----
+<!-- ==================== FOOTER ==================== -->
 
 <div align="center">
 
-💡 *"The best developers don't just code — they solve problems."*
+💡 *"Great developers don’t just build apps — they build solutions that matter."*
 
 </div>

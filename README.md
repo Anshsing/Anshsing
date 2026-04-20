@@ -45,27 +45,26 @@ I don’t just write code — I design systems that solve problems.
 
 ---
 
-### 🤖 AI LeetCode Helper Extension
+### 🤖 Sorting Visualizer
 
 <div align="center">
-<img src="YOUR_GIF_1" width="85%" style="border-radius:10px;" />
+<img src="demo.gif" width="85%" style="border-radius:10px;" />
 </div>
 
 **What it does:**
-AI-powered Chrome extension that helps users *understand* coding problems instead of copying solutions.
+AI-powered Chrome extension that helps users *understand* sorting algorithms instead of memorizing them.
 
 **Why it’s impactful:**
 
-* 🧠 Extracts problem automatically
-* ⚡ Gives hints using AI
-* 🎯 Focuses on learning, not cheating
+* ⚡ Color coded animations.
+* 🎯 Focuses on learning, not memorizing
 
 ```id="pr1"
-Tech: React • OpenAI API • Chrome Extension APIs
+Tech: React • javascript • CSS
 ```
 
-🔗 Live Demo: YOUR_LINK
-📂 Repo: YOUR_LINK
+🔗 Live Demo: https://algorithm-visualizer-liard-phi.vercel.app/
+📂 Repo: https://github.com/Anshsing/sorting-visualizer
 
 ---
 
@@ -93,19 +92,7 @@ Tech: MongoDB • Express • React • Node
 
 ---
 
-<!-- ==================== STATS ==================== -->
 
-## 📊 GitHub Insights
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 <!-- ==================== LANGUAGES ==================== -->
 
@@ -125,7 +112,7 @@ Tech: MongoDB • Express • React • Node
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/anshsing/anshsing/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -137,11 +124,11 @@ Tech: MongoDB • Express • React • Node
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/anshsingh132">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:13anshsingh@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 

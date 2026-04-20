@@ -124,7 +124,7 @@ Tech: MongoDB • Express • React • Node
 
 <div align="center">
 
-<a href="www.linkedin.com/in/anshsingh132">
+<a href="https://www.linkedin.com/in/anshsingh132">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 

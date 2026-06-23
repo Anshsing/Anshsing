@@ -68,14 +68,14 @@ Tech: React • javascript • CSS
 
 ---
 
-### 🛍️ Hyperlocal Clothing Discovery Platform
+### 🛍️ Localist
 
 <div align="center">
 <img src="YOUR_GIF_2" width="85%" style="border-radius:10px;" />
 </div>
 
 **What it does:**
-Connects users with nearby clothing shops for urgent fashion needs.
+Hyperlocal Clothing Discovery Platform - Connects users with nearby clothing shops for urgent fashion needs.
 
 **Why it’s impactful:**
 
@@ -87,8 +87,6 @@ Connects users with nearby clothing shops for urgent fashion needs.
 Tech: MongoDB • Express • React • Node
 ```
 
-🔗 Live Demo: YOUR_LINK
-📂 Repo: YOUR_LINK
 
 ---
 
@@ -96,27 +94,10 @@ Tech: MongoDB • Express • React • Node
 
 <!-- ==================== LANGUAGES ==================== -->
 
-## 🧠 Code Profile
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 <!-- ==================== ANIMATION ==================== -->
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/anshsing/anshsing/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
 
 <!-- ==================== CONTACT ==================== -->
 

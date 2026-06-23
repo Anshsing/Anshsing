@@ -84,7 +84,7 @@ Hyperlocal Clothing Discovery Platform - Connects users with nearby clothing sho
 * 🏪 Shop onboarding dashboard
 
 ```id="pr2"
-Tech: MongoDB • Express • React • Node
+Tech: MongoDB • Express • React • Node • React Native
 ```
 
 

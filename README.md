@@ -71,7 +71,7 @@ Tech: React • javascript • CSS
 ### 🛍️ Localist
 
 <div align="center">
-<img src="sortingvizualiserdemo.gif" width="85%" style="border-radius:10px;" />
+<img src="demo2.gif" width="85%" style="border-radius:10px;" />
 </div>
 
 **What it does:**
